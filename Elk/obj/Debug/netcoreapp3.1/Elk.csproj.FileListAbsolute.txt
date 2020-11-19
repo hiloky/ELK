@@ -1,0 +1,14 @@
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\Elk.exe
+Z:\github\ELK\Elk\Elk\obj\Debug\netcoreapp3.1\Elk.csprojAssemblyReference.cache
+Z:\github\ELK\Elk\Elk\obj\Debug\netcoreapp3.1\Elk.AssemblyInfoInputs.cache
+Z:\github\ELK\Elk\Elk\obj\Debug\netcoreapp3.1\Elk.AssemblyInfo.cs
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\log4net.dll
+Z:\github\ELK\Elk\Elk\obj\Debug\netcoreapp3.1\Elk.csproj.CopyComplete
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+Z:\github\ELK\Elk\Elk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
